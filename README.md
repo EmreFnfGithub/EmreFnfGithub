@@ -1,3 +1,4 @@
+![github-small](https://i.hizliresim.com/as8ow4z.png)
 - 👋 Hi, I’m @EmreFnfGithub
 - 👀 I like Friday Night Funkin Modding
 - 🌱 My Gamebanana https://gamebanana.com/members/2064554
